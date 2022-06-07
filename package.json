@@ -9,7 +9,6 @@
 		"name": "Marco Leoni",
 		"email": "marco.leoni@gmail.com"
 	},
-	"icon": "./ALObjectMapper.ico",
 	"engines": {
 		"vscode": "^1.67.0"
 	},
