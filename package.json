@@ -3,6 +3,7 @@
 	"displayName": "ALObjectMapper",
 	"description": "Map AL Objects in the current project",
 	"version": "1.0.0",
+	"publisher": "MarcoLeoni",
 	"author": {
 		"name": "Marco Leoni",
 		"email": "marco.leoni@gmail.com"
