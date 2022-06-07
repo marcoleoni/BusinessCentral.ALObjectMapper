@@ -4,6 +4,7 @@
 	"description": "Map AL Objects in the current project",
 	"version": "1.0.0",
 	"publisher": "MarcoLeoni",
+	"repository": {"url": "https://github.com/marcoleoni/BusinessCentral.ALObjectMapper.git"},
 	"author": {
 		"name": "Marco Leoni",
 		"email": "marco.leoni@gmail.com"
