@@ -81,7 +81,7 @@ async function WriteResults()
 async function SearchPattern(c:vscode.TextDocument)
 {
 	var text = c.getText();
-	const rExp : RegExp = new RegExp("(codeunit|table|enum|page|query|xmlport|report)\\s*([\\d]{5})\\s*(\".*\"|.*\\s|.*)", "igm");
+	const rExp : RegExp = new RegExp("(codeunit|table|enum|page|query|xmlport|report)\\s*([\\d]{5,})\\s*(\".*\"|.*\\s|.*)", "igm");
 	var matches  = rExp.exec(text);
 	if (matches != undefined)
 	{

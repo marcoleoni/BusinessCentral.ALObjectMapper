@@ -18,13 +18,12 @@ Only this object types are mapped :
 
 no requirements are needed
 
-
 ## Release Notes
 
-Users appreciate release notes as you update your extension.
+### 1.0.1
+Handled all objects with 5 or more numbers in the id 
 
 ### 1.0.0
-
 First release
 
 
