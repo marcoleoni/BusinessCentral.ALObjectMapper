@@ -1,9 +1,10 @@
 # Change Log
 
-All notable changes to the "alobjectmapper" extension will be documented in this file.
+Following the change log
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+## 1.0.1
+- Change in regex pattern to also handle object id with up to 5 number
 
-## [Unreleased]
+## 1.0.0
 
 - Initial release
